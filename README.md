@@ -1,5 +1,5 @@
 # Prueba de Servidores Mirror
-## Lista de Servidores Mirror Kali GNU/Linux Rolling 32-bit
+## Lista de Servidores Mirror Kali GNU/Linux Rolling
 Ejecución:
 ```
 vacs@kali:~$ cd PruebaMirror
